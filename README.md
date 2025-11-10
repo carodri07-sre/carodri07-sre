@@ -46,9 +46,10 @@
 
 ### 📈 Mis objetivos actuales
 
-- 🔍 Participar en proyectos **open source** relacionados con infraestructura y automatización.  
+- 🔍 Contribuir en proyectos **open source** orientados a infraestructura, automatización y observabilidad.
+- 🚀 Profundizar en **arquitectura cloud, seguridad y despliegues de alta disponibilidad**.  
 - 📘 Fortalecer mi dominio en **FinOps y seguridad en la nube**.  
-- 🤝 Colaborar con equipos remotos de alta exigencia técnica.
+- 🤝 Colaborar con **equipos remotos globales** de alto nivel técnico y contribuir a entornos de mejora continua.
 
 ---
 

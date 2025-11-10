@@ -12,8 +12,9 @@
 - 🌍 Desde **Colombia (UTC-5)**  
 - 💼 Ingeniero Cloud especializado en AWS, Kubernetes (EKS) y Terraform, con experiencia en el diseño y despliegue de infraestructura escalable mediante Infraestructura como Código (IaC).
 - ⚙️ Experiencia en implementacion de pipelines **CI/CD (GitHub Actions, ArgoCD)**, **Monitorización (Prometheus, Grafana, OpenSource Observability)** y **Seguridad en pipelines**.  
-- ☁️ Enfocado en **resiliencia, automatización y escalabilidad** de entornos cloud para garantizar alta disponibilidad y eficiencia operativa.
-- 📈 Comprometido con la optimización continua, reducción de errores y mejora de la colaboración entre equipos de desarrollo y operaciones
+- ☁️ Enfocado en diseñar y mantener infraestructuras resilientes, escalables y seguras.
+- 📈 Apasionado por la mejora continua, la eficiencia operativa y la colaboración efectiva entre equipos de desarrollo y operaciones
+
 
 ---
 

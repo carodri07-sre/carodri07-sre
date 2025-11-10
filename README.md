@@ -10,8 +10,8 @@
 ### 🧠 Sobre mí
 
 - 🌍 Desde **Colombia (UTC-5)**  
-- 💼 Actualmente trabajando con **AWS, Kubernetes (EKS)** y herramientas de infraestructura como código.  
-- ⚙️ Experiencia en **CI/CD (GitHub Actions, Jenkins, ArgoCD)**, **monitorización (Prometheus, Grafana, Loki)** y **seguridad en pipelines**.  
+- 💼 Ing Cloud AWS Tools, Kubernetes (EKS)** / Herramientas de infraestructura como código (IAC).  
+- ⚙️ Experiencia en **CI/CD (GitHub Actions, Jenkins, ArgoCD)**, **Monitorización (Prometheus, Grafana, Loki)** y **seguridad en pipelines**.  
 - ☁️ Foco en **resiliencia, automatización y escalabilidad** de infraestructuras cloud.  
 - 📈 Siempre buscando optimizar tiempos, reducir errores y potenciar la colaboración entre equipos.
 
